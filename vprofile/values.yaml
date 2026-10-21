@@ -1,7 +1,7 @@
 defaultUser: guest
 app:
   image: 315735600899.dkr.ecr.us-east-1.amazonaws.com/repo-01
-  tag: a5aea1a
+  tag: ac3de26
   replicas: 1
   containerPort: 8080
   servicePort: 8080
